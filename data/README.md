@@ -1,5 +1,5 @@
 The dataset used in the study was extracted from the Bazilian Federal Highway Police Open Dataset, see:
-https://www.gov.br/prf/pt-br/acesso-a-informacao/dados-abertos
+Dados abertos da PRF -- https://www.gov.br/prf/pt-br/acesso-a-informacao/dados-abertos
 
 To replicate results download the follwing files with accident data
 2024 -- https://drive.google.com/file/d/14lVfqdoE2gxDliaKZu7K9Mx6847maPtl/view?usp=sharing/download
